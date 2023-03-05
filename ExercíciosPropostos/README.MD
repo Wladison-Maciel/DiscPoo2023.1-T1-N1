@@ -1,8 +1,8 @@
 Questão | Enunciado
 :---------: | :------:
-  2     | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
-  3     | Faça um programa que receba 2 números, calcule e mostre a divisão do primeiro pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto não é necessario se preocupar com validações.
-  6     | Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo de um funcionário e o valor de suas vendas. Calcule e mostre a comissão e o salário final do funcionário.
+  02     | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+  03     | Faça um programa que receba 2 números, calcule e mostre a divisão do primeiro pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto não é necessario se preocupar com validações.
+  06     | Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo de um funcionário e o valor de suas vendas. Calcule e mostre a comissão e o salário final do funcionário.
  10     | Faça um programa que calcule e mostre a área de um quadrado. Sabe-se que: A = lado x lado.
  11     | Faça um programa que calcule e mostre a área de um losangulo. Sabe-se que A = (diagonal maior x diagonal menor)/2.
  12     | Faça um programa que receba o valor do salário minimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário.
