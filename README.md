@@ -4,8 +4,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Em conjunto com:
+# Em conjunto com:
 
-<a title = "Você será direcionado ao perfil nessa mesma aba" href = "https://github.com//Pedrofarley7" >Pedrofarley7</a><br>
+## <a title = "Você será direcionado ao perfil de Pedrofarley7" href = "https://github.com//Pedrofarley7" >Pedrofarley7</a><br>
 
 <img alt="Java-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
