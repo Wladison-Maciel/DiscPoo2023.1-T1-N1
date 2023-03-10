@@ -6,6 +6,6 @@
 
 ## Em conjunto com:
 
-<a title = "Você será direcionado ao perfil nessa mesma aba" href = "https://github.com//Pedrofarley7" >Pedro Farofa</a><br>
+<a title = "Você será direcionado ao perfil nessa mesma aba" href = "https://github.com//Pedrofarley7" >Pedrofarley7</a><br>
 
 <img alt="Java-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
