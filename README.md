@@ -4,6 +4,15 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+### Equipe: Wladison Maciel, Pedro Farley
+### Curso: Técnico Integrado em Informática.
+### Turno: Integral
+### Turma: P3
+### Etapa: N1
+### Disciplina: POO
+### Professor: Roger Moura
+### Data de entrega: 25/04
+
 # Em conjunto com:
 
 ## <a title = "Você será direcionado ao perfil de Pedrofarley7" href = "https://github.com//Pedrofarley7" >Pedrofarley7</a><br>
